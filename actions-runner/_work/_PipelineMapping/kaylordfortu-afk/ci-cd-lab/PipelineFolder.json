@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "kaylordfortu-afk/ci-cd-lab",
+  "pipelineDirectory": "ci-cd-lab",
+  "workspaceDirectory": "ci-cd-lab\\ci-cd-lab",
+  "repositories": {
+    "kaylordfortu-afk/ci-cd-lab": {
+      "repositoryPath": "ci-cd-lab\\ci-cd-lab",
+      "lastRunOn": "11/03/2026 23:47:53 +08:00"
+    }
+  },
+  "lastRunOn": "11/03/2026 23:47:53 +08:00"
+}
