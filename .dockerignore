@@ -1,9 +1,7 @@
-
+text
 node_modules
 dist
 .git
 .github
+.vscode
 .env
-.env.
-env.example
-npm-debug.log
