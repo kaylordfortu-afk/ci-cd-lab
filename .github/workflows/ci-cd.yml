@@ -25,15 +25,15 @@ jobs:
         continue-on-error: true
 
       - name: Start updated container
-        run: docker run -d --name ionic-vue-app -p 8100:8100 ionic-vue-app:latest
+        run: docker run -d --name ionic-vue-app -p 8080:8080 ionic-vue-app:latest
 
       - name: Verify app
         shell: powershell
         run: |
           $Success = $false
-          for ($i = 0; $i -lt 10; $i++) {
+          for ($i = 0; $i -le 15; $i++) {
             try {
-              Invoke-WebRequest -Uri http://localhost:8080 -UseBasicParsing -TimeoutSec 5 | Out-Null
+              Invoke-WebRequest http://localhost:8080 -UseBasicParsing -TimeoutSec 2 | Out-Null
               $Success = $true
               break
             } catch {
