@@ -1,0 +1,72 @@
+[2026-11-04 01:23:59Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2026-11-04 01:23:59Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Admin\Documents\lab4-ionic-vue\actions-runner\bin'
+[2026-11-04 01:23:59Z INFO HostContext] Well known directory 'Root': 'C:\Users\Admin\Documents\lab4-ionic-vue\actions-runner'
+[2026-11-04 01:23:59Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\Admin\Documents\lab4-ionic-vue\actions-runner\.credentials'
+[2026-11-04 01:23:59Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Admin\Documents\lab4-ionic-vue\actions-runner\bin'
+[2026-11-04 01:23:59Z INFO HostContext] Well known directory 'Root': 'C:\Users\Admin\Documents\lab4-ionic-vue\actions-runner'
+[2026-11-04 01:23:59Z INFO HostContext] Well known config file 'Runner': 'C:\Users\Admin\Documents\lab4-ionic-vue\actions-runner\.runner'
+[2026-11-04 01:23:59Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2026-11-04 01:23:59Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.19045.
+[2026-11-04 01:23:59Z INFO Listener] Version: 2.338.2
+[2026-11-04 01:23:59Z INFO Listener] Commit: d1eb12d4b115c301201de27d667284e1a80f2ab5
+[2026-11-04 01:23:59Z INFO Listener] Culture: en-US
+[2026-11-04 01:23:59Z INFO Listener] UI Culture: en-US
+[2026-11-04 01:23:59Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Admin\Documents\lab4-ionic-vue\actions-runner\bin'
+[2026-11-04 01:23:59Z INFO HostContext] Well known directory 'Root': 'C:\Users\Admin\Documents\lab4-ionic-vue\actions-runner'
+[2026-11-04 01:23:59Z INFO Listener] Validating directory permissions for: 'C:\Users\Admin\Documents\lab4-ionic-vue\actions-runner'
+[2026-11-04 01:23:59Z INFO CommandLineParser] Parse
+[2026-11-04 01:23:59Z INFO CommandLineParser] Parsing 2 args
+[2026-11-04 01:23:59Z INFO CommandLineParser] parsing argument
+[2026-11-04 01:23:59Z INFO CommandLineParser] HasArgs: False
+[2026-11-04 01:23:59Z INFO CommandLineParser] Adding Command: configure
+[2026-11-04 01:23:59Z INFO CommandLineParser] parsing argument
+[2026-11-04 01:23:59Z INFO CommandLineParser] HasArgs: True
+[2026-11-04 01:23:59Z INFO CommandLineParser] arg: check
+[2026-11-04 01:23:59Z INFO Listener] Arguments parsed
+[2026-11-04 01:24:00Z INFO Runner] ExecuteCommand
+[2026-11-04 01:24:00Z INFO ConfigurationStore] currentAssemblyLocation: C:\Users\Admin\Documents\lab4-ionic-vue\actions-runner\bin\Runner.Listener.dll
+[2026-11-04 01:24:00Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Admin\Documents\lab4-ionic-vue\actions-runner\bin'
+[2026-11-04 01:24:00Z INFO ConfigurationStore] binPath: C:\Users\Admin\Documents\lab4-ionic-vue\actions-runner\bin
+[2026-11-04 01:24:00Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Admin\Documents\lab4-ionic-vue\actions-runner\bin'
+[2026-11-04 01:24:00Z INFO HostContext] Well known directory 'Root': 'C:\Users\Admin\Documents\lab4-ionic-vue\actions-runner'
+[2026-11-04 01:24:00Z INFO ConfigurationStore] RootFolder: C:\Users\Admin\Documents\lab4-ionic-vue\actions-runner
+[2026-11-04 01:24:00Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Admin\Documents\lab4-ionic-vue\actions-runner\bin'
+[2026-11-04 01:24:00Z INFO HostContext] Well known directory 'Root': 'C:\Users\Admin\Documents\lab4-ionic-vue\actions-runner'
+[2026-11-04 01:24:00Z INFO HostContext] Well known config file 'Runner': 'C:\Users\Admin\Documents\lab4-ionic-vue\actions-runner\.runner'
+[2026-11-04 01:24:00Z INFO ConfigurationStore] ConfigFilePath: C:\Users\Admin\Documents\lab4-ionic-vue\actions-runner\.runner
+[2026-11-04 01:24:00Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Admin\Documents\lab4-ionic-vue\actions-runner\bin'
+[2026-11-04 01:24:00Z INFO HostContext] Well known directory 'Root': 'C:\Users\Admin\Documents\lab4-ionic-vue\actions-runner'
+[2026-11-04 01:24:00Z INFO HostContext] Well known config file 'MigratedRunner': 'C:\Users\Admin\Documents\lab4-ionic-vue\actions-runner\.runner_migrated'
+[2026-11-04 01:24:00Z INFO ConfigurationStore] MigratedConfigFilePath: C:\Users\Admin\Documents\lab4-ionic-vue\actions-runner\.runner_migrated
+[2026-11-04 01:24:00Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Admin\Documents\lab4-ionic-vue\actions-runner\bin'
+[2026-11-04 01:24:00Z INFO HostContext] Well known directory 'Root': 'C:\Users\Admin\Documents\lab4-ionic-vue\actions-runner'
+[2026-11-04 01:24:00Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\Admin\Documents\lab4-ionic-vue\actions-runner\.credentials'
+[2026-11-04 01:24:00Z INFO ConfigurationStore] CredFilePath: C:\Users\Admin\Documents\lab4-ionic-vue\actions-runner\.credentials
+[2026-11-04 01:24:00Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Admin\Documents\lab4-ionic-vue\actions-runner\bin'
+[2026-11-04 01:24:00Z INFO HostContext] Well known directory 'Root': 'C:\Users\Admin\Documents\lab4-ionic-vue\actions-runner'
+[2026-11-04 01:24:00Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Users\Admin\Documents\lab4-ionic-vue\actions-runner\.credentials_migrated'
+[2026-11-04 01:24:00Z INFO ConfigurationStore] MigratedCredFilePath: C:\Users\Admin\Documents\lab4-ionic-vue\actions-runner\.credentials_migrated
+[2026-11-04 01:24:00Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Admin\Documents\lab4-ionic-vue\actions-runner\bin'
+[2026-11-04 01:24:00Z INFO HostContext] Well known directory 'Root': 'C:\Users\Admin\Documents\lab4-ionic-vue\actions-runner'
+[2026-11-04 01:24:00Z INFO HostContext] Well known config file 'Service': 'C:\Users\Admin\Documents\lab4-ionic-vue\actions-runner\.service'
+[2026-11-04 01:24:00Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Users\Admin\Documents\lab4-ionic-vue\actions-runner\.service
+[2026-11-04 01:24:00Z INFO CommandSettings] Flag 'help': 'False'
+[2026-11-04 01:24:00Z INFO CommandSettings] Flag 'version': 'False'
+[2026-11-04 01:24:00Z INFO CommandSettings] Flag 'commit': 'False'
+[2026-11-04 01:24:00Z INFO CommandSettings] Flag 'check': 'True'
+[2026-11-04 01:24:00Z INFO CommandSettings] Arg 'url': ''
+[2026-11-04 01:24:00Z INFO CommandSettings] Flag 'unattended': 'False'
+[2026-11-04 01:24:00Z INFO PromptManager] ReadValue
+[2026-11-04 01:24:00Z INFO Terminal] WRITE: What is the URL of your repository? 
+[2026-11-04 01:24:00Z INFO Terminal] READ LINE
+[2026-11-04 01:33:00Z INFO Terminal] Read value: '8100'
+[2026-11-04 01:33:00Z INFO PromptManager] Invalid value.
+[2026-11-04 01:33:00Z INFO Terminal] WRITE LINE: Entered value is invalid
+[2026-11-04 01:33:00Z INFO Terminal] WRITE: What is the URL of your repository? 
+[2026-11-04 01:33:00Z INFO Terminal] READ LINE
+[2026-11-04 01:33:17Z INFO Terminal] Read value: 'http://localhost:8100'
+[2026-11-04 01:33:17Z INFO CommandSettings] Arg 'pat': ''
+[2026-11-04 01:33:17Z INFO CommandSettings] Flag 'unattended': 'False'
+[2026-11-04 01:33:17Z INFO PromptManager] ReadValue
+[2026-11-04 01:33:17Z INFO Terminal] WRITE: What is your GitHub personal access token? 
+[2026-11-04 01:33:17Z INFO Terminal] READ SECRET
